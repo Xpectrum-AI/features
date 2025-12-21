@@ -1,2 +1,4 @@
+# false / true
+
 livekit_features{
-Acknowledgement: false}
+Acknowledgement: true}
